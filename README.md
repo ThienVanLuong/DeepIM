@@ -7,3 +7,5 @@ Created by Thien Van Luong, Queen's University of Belfast, UK; Email: tluong01@q
 Requirements:
 - Tensorflow 1.9
 - Numpy, matplotlib and scipy
+
+Baselines including ML and LLR detectors can be found at https://github.com/ThienVanLuong/ofdm_im.
